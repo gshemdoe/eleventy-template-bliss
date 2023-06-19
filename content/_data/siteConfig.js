@@ -9,16 +9,16 @@ module.exports = {
     // OpenGraph tags and feeds.
     // Can also be used anywhere on the site as a Nunjucks variable:
     // {{ siteConfig.site.logo }}
-    title: 'Bliss',
+    title: 'Tanzania Casino',
     // Site description. Used in many places, including meta title,
     // OpenGraph tags and feeds.
     // It is also used as a fallback description if no custom description
     // is provided for a page / post.
-    description: 'Simple Eleventy blog template',
+    description: 'Macasino Bora Tanzania',
     // Production URL. Used by 'alwaysProductionUrl' filter.
     // If none is provided, relative paths will be used
     // and in some cases (like sitemap.xml) that is TOTALLY NOT what you want
-    url: process.env.URL || 'https://eleventy-bliss.vercel.app/',
+    url: process.env.URL || 'https://effortless-marzipan-d4c1f2.netlify.app/',
     // Image used as a site logo. If none is provided, site title as text
     // will be displayed as fallback.
     // If you opt for text fallback, you may want to adjust
@@ -93,7 +93,7 @@ module.exports = {
   metaPages: [
     {
       url: 'https://example.org/link-1/',
-      title: 'Example link 1',
+      title: 'Shemdoe 1',
     },
     {
       url: 'https://example.org/link-2/',
